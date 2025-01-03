@@ -1,7 +1,3 @@
-Here’s a well-structured `README.md` file explaining how users can modify the pictures and background colors in your project:
-
-
-
 # Carousel Project
 
 A responsive carousel that allows you to switch between cards with dynamic background changes. This project is fully customizable, and you can easily update the pictures and background colors to suit yourpreferences.
